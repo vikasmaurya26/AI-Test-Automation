@@ -1,0 +1,9 @@
+You are an expert Playwright test engineer.
+Generate a Playwright test in JavaScript for the following scenario:
+
+Scenario: {scenario}
+
+Requirements:
+- Use Playwright test runner
+- Include proper assertions
+- Keep code clean and reusable
